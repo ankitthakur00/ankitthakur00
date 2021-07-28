@@ -1,6 +1,6 @@
 <img align=right src="https://github.com/ankitthakur00/ankitthakur00/blob/main/428.png" width=450>
 
-# Hello, I'm Ankit 👩🏻‍💻
+# Hello, I'm Ankit 👨‍💻
 
 Currently a Software Engineer 1 at Epsion, in the Data team ☁️.
 
