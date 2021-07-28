@@ -2,7 +2,7 @@
 
 # Hello, I'm Ankit 👨‍💻
 
-Currently a Software Engineer 1 at Epsion, in the Data team ☁️.
+Currently a Software Engineer 1 at Epsion, in the Data team .
 
 Some of the technologies I'm working with now includes: Python, AWS & MySQL.
 
