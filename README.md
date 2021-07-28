@@ -4,12 +4,11 @@
 
 Currently a Software Engineer 1 at Epsion, in the Data team ☁️.
 
-Some of the technologies I'm working wiht now include: Python, AWS & MySQL.
+Some of the technologies I'm working with now includes: Python, AWS & MySQL.
 
-<!--Some technologies I enjoy working with include Python, HTML, CSS,JS.-->
+Some technologies I enjoy working with include Python, HTML, CSS,JS.
 
-
-<!-- Ideally, I would love to work as a python developer; however, I am definitely open to chatting about other types of opportunities. -->
+ Ideally, I would love to work as a python developer; however, I am definitely open to chatting about other types of opportunities.
 
 ### Other places you can reach me
 
