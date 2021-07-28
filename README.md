@@ -12,7 +12,7 @@ Some technologies I enjoy working with include Python, HTML, CSS,JS.
 
 ### Other places you can reach me
 
-🌐 [ankitthakur.com](https://www.ankitthakur00.github.io/)<br>
+🌐 [ankitthakur.com](https://ankitthakur00.github.io//)<br>
 💼 [linkedin](/in/ankitthakur00)<br>
 
 <!--
