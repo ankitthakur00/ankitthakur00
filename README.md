@@ -7,6 +7,6 @@ Currently a Software Engineer 1 at Epsion, in the Data team .
 
 ### Other places you can reach me
 
-🌐 [ankitthakur.com](https://ankitthakur00.github.io//)<br>
+🌐 [ankitthakur.com](https://ankitthakur00.github.io/portfolio/)<br>
 💼 [linkedin](https://www.linkedin.com/in/ankitthakur00/)<br>
 
