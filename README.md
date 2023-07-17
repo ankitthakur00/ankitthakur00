@@ -2,7 +2,7 @@
 
 # Hello, I'm Ankit 👨‍💻
 
-Currently a Software Engineer 1 at Epsion, in the Data team .
+Currently working as a Software Engineer 2 at Epsion .
 
 
 ### Other places you can reach me
