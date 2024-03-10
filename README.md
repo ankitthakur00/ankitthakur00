@@ -2,7 +2,7 @@
 
 # Hello, I'm Ankit 👨‍💻
 
-Currently working as a Software Engineer 2 at Epsilon .
+Currently working as a Software Engineer at OpenText.
 
 
 ### Other places you can reach me
