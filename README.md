@@ -15,9 +15,6 @@
 
 - 📄 Know about my experiences [https://ankitthakur00.github.io/me/about](https://ankitthakur00.github.io/me/about)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
