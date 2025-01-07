@@ -1,4 +1,3 @@
-<img align=right src="https://github.com/ankitthakur00/ankitthakur00/blob/main/428.png" width=450>
 
 <h1 align="center">Hi 👋, I'm Ankit</h1>
 <h3 align="center">Software engineer based in Bengaluru, India.</h3>
